@@ -16,7 +16,13 @@
     "esm": "^3.2.25",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.3.4",
+    "mongoose": "^8.3.5",
     "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "eslint": "^9.2.0",
+    "eslint-plugin-react": "^7.34.1",
+    "globals": "^15.2.0"
   }
 }
